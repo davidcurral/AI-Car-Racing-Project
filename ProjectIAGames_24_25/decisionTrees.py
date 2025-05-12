@@ -70,9 +70,9 @@ class Greater(Decision):
     """ Abstract range decision node implementation,extending Boolean node
     """
 
-    def __init__(self, attr,yesNode,noNode,max):
+    def __init__(self, attr,yesNode,noNode,min):
         super(Greater, self).__init__(attr,{True: yesNode, False: noNode})
-        self.maxValue = max
+        self.minValue = min
 
     def value(self,info):
         return info[self._attribute] > self.minValue
