@@ -37,3 +37,6 @@ While the models successfully produce functional Decision Trees, the current bes
 * **Path Following**: Implementing an automated "path-following" algorithm to collect cleaner training data, reducing the dependency on human driving skills.
 * **Hyperparameter Tuning**: Further adjusting model parameters to optimize performance.
 * **Multi-Agent Simulation**: Testing how multiple autonomous models interact and behave when sharing the track simultaneously.
+
+
+![AI Car Driving in Racing Track](https://github.com/davidcurral/AI-Car-Racing-Project/main/AICar.png)
