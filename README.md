@@ -39,4 +39,4 @@ While the models successfully produce functional Decision Trees, the current bes
 * **Multi-Agent Simulation**: Testing how multiple autonomous models interact and behave when sharing the track simultaneously.
 
 
-![AI Car Driving in Racing Track](https://github.com/davidcurral/AI-Car-Racing-Project/main/AICar.png)
+![AI Car Driving in Racing Track](https://github.com/davidcurral/AI-Car-Racing-Project/blob/main/AICar.png)
